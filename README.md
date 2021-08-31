@@ -8,7 +8,16 @@
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
 
-- [Notebook com o trabalho](RecSys_notebook.ipynb). <!-- caso não aplicável, remover esta linha -->
+- [Arquivo jupyter notebook com a construção do trabalho](RecSys_notebook.ipynb): 
+- [Classe que processa e gera as recomendações](Recs_class.py )
+- [Arquivo CSV com a descrição de cada artigo e demais informações](articles_community.csv)
+- [Arquivo CSV com a interação usuário-artigo](user-item-interactions.csv)
+- [Banco de dados SQlite com as tabelas que contém a descrição dos artigos e interação usuário-artigo](ibm_articles.db)
+- [Arquivo 'Main' que processa a classe que gera as recomandações - via banco de dados SQlite](main_bd.py)
+- [(Opcional) Arquivo 'Main' que processa a Classe que gera as recomendações - via arquivos CSV](main.py)
+- [Funções utilizadas na Classe que gera as recomendações](recommender_functions.py)
+- [Arquivo .bat que inicia a classe, gera e salva em Json as recomendações - via banco de dados SQlite](run_bd.bat)
+- [(Opcional) Arquivo .bat que inicia a classe, gera e salva em Json as recomendações - via arquivo csv](run_csv.bat)
 
 - Trabalhos relacionados: <!-- caso não aplicável, remover estas linhas -->
     - [Nome do Trabalho 1](https://link_do_trabalho.com).
