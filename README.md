@@ -1,4 +1,4 @@
-# MVP de sistema de recomendação para artigos
+# MVP de Sistema de Recomendação para Artigos
 
 #### Aluno: [Thiago Tadeu Dos Santos Gavioli](https://github.com/thiagogavioli)
 #### Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
